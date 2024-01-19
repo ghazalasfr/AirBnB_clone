@@ -8,12 +8,12 @@
 	width: 100%;
 }
 
-.footer-absolute {
+.footer3 {
 	bottom: 0;
 	position: absolute;
 }
 
-.footer-dynamic {
+.footer4 {
 	flex-shrink: 0;
 }
 
